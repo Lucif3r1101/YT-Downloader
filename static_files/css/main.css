@@ -1,7 +1,7 @@
 html, body {
     padding: 0;
     margin: 0;
-    background-color: #caccf642;
+    background-color: darkgray;
     color: black;
 }
 
@@ -10,7 +10,7 @@ html, body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color:black;
     color: white;
     text-align: center;
  }
@@ -18,7 +18,8 @@ html, body {
 .background {
     background: url("https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-9.png");
     background-size: cover;
-    padding-bottom: 30px
+    padding-bottom: 30px;
+    background-color: red;
 }
 .btn:hover
 {
